@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nicolettigu, a Computer Engineering student at Politecnico di Torino
+- 👀 I’m interested in Artifitial Inteligence
+- 🌱 I’m currently learning Python and other engineering subjects
+- 💞️ I’m looking to collaborate on applications on healthcare
